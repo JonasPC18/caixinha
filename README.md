@@ -18,12 +18,12 @@ GUIA DO JOGO
 *cada vez que aparece o símbolo ">" no jogo, o usuário deve apertar ENTER.
 
 CAPÍTULO 1
-> manipular tapete
-> usar chave bau
-> manipular bau #
-> manipular janela
-> manipular bau
-> usar caixinha
+ manipular tapete
+ usar chave bau
+ manipular bau #
+ manipular janela
+ manipular bau
+ usar caixinha
 
 CAPÍTULO 2
 > pegar cola_superbonder
